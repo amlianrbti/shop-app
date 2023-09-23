@@ -16,4 +16,4 @@ boleh ditambah:
 -- show
 
 Dengan sumber pengerjaan:
-- [CRUD Laravel]([https://laravel.com/docs/routing](https://elearning.smapluspgri.sch.id/mod/book/view.php?id=48)https://elearning.smapluspgri.sch.id/mod/book/view.php?id=48).
+- [CRUD Laravel]([https://elearning.smapluspgri.sch.id/mod/book/view.php?id=48)https://elearning.smapluspgri.sch.id/mod/book/view.php?id=48]).
